@@ -3,11 +3,11 @@
       "name":"Honorine Ndom Ndzah",
       "description":"Software Engineer / Designer / Lifetime Student",
       "image":"profilepic.jpg",
-      "bio":"My name is Honorine Ndom Ndzah and I am a recent IT Bachelor's degree graduate and current UNC Coding Bootcamp Student. Based in Raleigh, NC, I am a hard-working, detail-oriented Software Developer passionate about learning, researching, and writing code and I relish the opportunity to take my programming skills and experience to a company where I can continue to learn and grow as a professional software developer.",
+      "bio":"My name is Honorine Ndom Ndzah and I am a Software Engineer based in Seattle, WA, I am a hard-working, detail-oriented Software Engineer passionate about learning, researching, and writing code and I relish the opportunity to take my programming skills and experience to a company where I can continue to learn and grow as a professional software developer.",
       "contactmessage":"Feel free to contact me via email, this form, or LinkedIn",
       "email": "honorinendzah@gmail.com",
       "phone": "425-220-8089",
-      "github":"https://github.com/tutchings",
+      "github":"https://github.com/Honorinenn",
       "project":"https://www.linkedin.com/in/thomas-tutchings-2340871b7/",
       "address":{
         "street":"(Your Street)",
@@ -34,10 +34,10 @@
       "skillmessage":"* Each skill level is weighted in correlation to the remaining skills",
       "education":[
         {
-          "school":"University of North Carolina - Chapel Hill",
+          "school":"University of Washington - Seattle",
           "gpa": "A+ Academic Average",
-          "degree":"Coding Bootcamp Certificate",
-          "graduated":"February 2021",
+          "degree":"Coding Certificate",
+          "graduated":"February 2022",
           "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, Git"
         },
         {
@@ -65,42 +65,50 @@
       "skills":[
         {
           "name":"HTML / CSS / Bootstrap",
-          "level":"90%"
+          "level":"92%"
         },
         {
           "name":"ReactJS",
-          "level":"35%"
+          "level":"70%"
         },
         {
           "name":"MongoDB / Mongoose",
-          "level":"45%"
+          "level":"90%"
         },
         {
           "name":"Terminal / Git",
-          "level":"80%"
+          "level":"90%"
         },
         {
           "name":"NodeJS / ExpressJS",
-          "level":"80%"
+          "level":"95%"
         },
         {
           "name":"MySQL / Sequelize",
-          "level":"55%"
+          "level":"75%"
         },
         {
           "name":"JavaScript / jQuery",
-          "level":"90%"
+          "level":"93%"
         },
         {
           "name":"REST APIs",
           "level":"75%"
         },
         {
-          "name":"C-Programming",
-          "level":"30%"
+          "name":"C# Programming",
+          "level":"35%"
         },
         {
           "name":"Amazon Web Services / Serverless",
+          "level":"25%"
+        },
+        {
+          "name":"Python",
+          "level":"35%"          
+        },
+        {
+          "name":"Java",
           "level":"25%"
         }
       ]
