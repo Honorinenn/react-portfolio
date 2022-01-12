@@ -41,10 +41,10 @@
           "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, Git"
         },
         {
-          "school":"University of Massachusetts Lowell",
+          "school":"University of Ngaoundere - Cameroon",
           "gpa": "3.977 GPA",
-          "degree":"Bachelor's of Science in Information Technology (minor in business)",
-          "graduated":"August 2019",
+          "degree":"Masters of Engineering in Agro-Industrial Engineering",
+          "graduated":"December 2011",
           "description":"Coursework Included: Front-End Web Development (HTML, CSS, JavaScript), Back-End Web Development (Perl, Python, PHP), C-Programming, Database Management Systems (SQL, ERDplus, Teradata), Adobe Creative Suite, Microsoft Office Applications, Business Minor (Management, Finance, Accounting, Marketing, Economics)"
         }
       ],
@@ -116,35 +116,35 @@
     "portfolio":{
       "projects": [
         {
-          "title":"Disney Platformer",
-          "shorttitle": "Disney Platformer",
-          "category":"Personal Project",
-          "image":"disneyPlatformer.PNG",
-          "info":"HTML, CSS, JS, Bootstrap, Adobe Photoshop",
-          "url":"https://tutchings.github.io/disneyPlatformer/",
-          "repo":"https://github.com/tutchings/disneyPlatformer"
+          "title":"Pinko",
+          "shorttitle": "Pinko",
+          "category":"Academic Project",
+          "image":"pinko.png",
+          "info":"HTML, CSS, JS, Bootstrap, handlebar.js, Node.js, Sequelize, Mysql, Express",
+          "url":"https://mysterious-gorge-30415.herokuapp.com/",
+          "repo":"https://github.com/cj8355/PinKO"
         },
         {
-          "title":"Wake Forest University ASGM Project",
-          "shorttitle": "WFU ASGM Project",
-          "category":"Academic (group) Project",
-          "image":"wfu-asgm-project.PNG",
-          "info":"Amazon Web Services (AWS), Serverless, Express, Vuejs, Nodejs, Axios, MongoDB, Mongoose, HTML, CSS, JS, jQuery",
-          "url":"https://asgmwfu.com/index.html",
-          "repo":"https://github.com/tutchings/wfu-asgm-awsServerlessLambda"
+          "title":"Workout Tracker",
+          "shorttitle": "Workout Tracker",
+          "category":"Academic (personal) Project",
+          "image":"Workout.jpg",
+          "info":"Express, Nodejs, MongoDB, Mongoose, HTML, CSS, JS",
+          "url":"https://workout-tracker-hn.herokuapp.com/",
+          "repo":"https://github.com/Honorinenn/workout-tracker"
         },
         {
-          "title":"Exploring National Parks During Covid: Live Search",
-          "shorttitle": "NPS Covid: Live Search",
+          "title":"Music Trivia",
+          "shorttitle": "Music Trivia",
           "category":"Academic (group) Project",
-          "image":"nps.png",
+          "image":"musictrivia.png",
           "info":"HTML, CSS, JS, jQuery, Materialize, GoogleMaps and Geocoding APIs, NPS API, Covid Tracking Project API, Bing News API, MapQuest API",
-          "url":"https://tutchings.github.io/exploringParksDuringCovidLiveSearch/",
-          "repo":"https://github.com/tutchings/exploringParksDuringCovidLiveSearch"
+          "url":"https://BCole37.github.io/Project-1-Music-Trivia/",
+          "repo":"https://github.com/BCole37/Project-1-Music-Trivia" 
         },
         {
-          "title":"React User Directory",
-          "shorttitle": "React User Directory",
+          "title":"Weather App",
+          "shorttitle": "Weather App",
           "category":"Academic Project",
           "image":"userDirectoryImg1.PNG",
           "info":"React, Nodejs, Axios, Random User API, HTML, CSS, JS, Bootstrap",
@@ -152,8 +152,8 @@
           "repo":"https://github.com/tutchings/19-user-directory"
         },
         {
-          "title":"Budget Tracker PWA",
-          "shorttitle": "Budget Tracker",
+          "title":"Progressive Budget PWA",
+          "shorttitle": "Progressive Budget",
           "category":"Academic Project",
           "image":"budgetTracker1.PNG",
           "info":"MongoDB, Mongoose, webpack, service-worker, Express, Nodejs",
@@ -161,31 +161,13 @@
           "repo":"https://github.com/tutchings/18_BudgetTrackerPWA"
         },
         {
-          "title":"Burger Tracker",
-          "shorttitle": "Burger Tracker",
+          "title":"Note Taker",
+          "shorttitle": "Note Taker",
           "category":"Academic Project",
           "image":"burgerTracker.PNG",
           "info":"MySql, Express, Nodejs, Handlebars, HTML, CSS, JS, Bootstrap, jQuery",
           "url":"https://mysql-mvc-burger-shop.herokuapp.com/",
           "repo":"https://github.com/tutchings/13_burgerTracker"
-        },
-        {
-          "title":"Weather Dashboard",
-          "shorttitle": "Weather Dashboard",
-          "category":"Academic Project",
-          "image":"weatherDashboard.png",
-          "info":"HTML, CSS, Bootstrap, JS, jQuery, OpenWeather API, MapQuest API",
-          "url":"https://tutchings.github.io/6_weatherDashboard/",
-          "repo":"https://github.com/tutchings/6_weatherDashboard"
-        },
-        {
-          "title":"BlackJack Game",
-          "shorttitle": "BlackJack",
-          "category":"Personal Project",
-          "image":"blackjack.PNG",
-          "info":"HTML, CSS, JS",
-          "url":"https://tutchings.github.io/blackjack/",
-          "repo":"https://github.com/tutchings/blackjack"
         }
       ]
     }
