@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import ParticlesBg  from "particles-bg";
+import "./Header.css"
 
 class Header extends Component {
   render() {
