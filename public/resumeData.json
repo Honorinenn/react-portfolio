@@ -8,24 +8,24 @@
       "email": "honorinendzah@gmail.com",
       "phone": "425-220-8089",
       "github":"https://github.com/Honorinenn",
-      "project":"https://www.linkedin.com/in/thomas-tutchings-2340871b7/",
+      "project":"",
       "address":{
         "street":"(Your Street)",
         "city":"Seattle",
         "state":"WA",
         "zip": "(Your Zip/Postal Code)"
       },
-      "website": "https://github.com/tutchings",
+      "website": "https://github.com/Honorinenn",
       "resumedownload":"https://drive.google.com/file/d/1z-EfydB5ZVRvnLHXoPAg1dbRDvHO-gSV/view?usp=sharing",
       "social":[
         {
           "name":"github",
-          "url":"https://github.com/tutchings",
+          "url":"https://github.com/Honorinenn",
           "className":"fa fa-github"
         },
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/thomas-tutchings-2340871b7/",
+          "url":"https://www.linkedin.com/in/honorine-ndom-ndzah-79347787/",
           "className":"fa fa-linkedin"
         }
       ]
@@ -50,14 +50,14 @@
       ],
       "work":[
         {
-          "company":"Dean Dorton",
-          "title":"Software Services Specialist (Software Developer)",
-          "years":"November 2020 - Present",
+          "company":"Walmart",
+          "title":"Sales Associate",
+          "years":"January 2021 - Present",
           "description":"Write scrips to build custom accounting dashboards for clients (javasript) and build software integrations between accounting application platforms (python)"
         },
         {
-          "company":"365 Sports",
-          "title":"Accounting / Sports Marketing Data Analyst",
+          "company":"Africa Business and Consulting",
+          "title":"Quality Assurance Engineer",
           "years":"December 2019 - May 2020 (Laid-off as a result of Covid-19)",
           "description":"Invoicing clients, building and sending receipts, scheduling/mailing payment plans and reminders, marketing tasks (mass mailings, mass text messaging, design/editing), and researching high school sports statistics, data, and school information."
         }
