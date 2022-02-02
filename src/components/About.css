@@ -21,15 +21,16 @@
  #about p {
     line-height: 30px;
     color: #ccc;
-    display: block;
+    display: flex;
     margin-block-start: 0.83em;
-    margin-block-end: 0.83em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+    margin-block-end: 2em;
+    margin-inline-start: 400px;
+    margin-inline-end: 100px;
     box-sizing: border-box;
  }
  #about .profile-pic {
-    position: relative;
+    float: left;
+    /*position: relative;*/
     width: 120px;
     height: 120px;
     border-radius: 100%;
@@ -39,7 +40,8 @@
     width: 58.33333%;
     padding-top: 6px;
  }
- #about .main-col { padding-right: 5%; }
+ #about .main-col { padding-left: 2%;
+display: inline; }
  #about .download .button {
     margin-top: 6px;
     background: #444;

@@ -42,7 +42,7 @@
         },
         {
           "school":"University of Ngaoundere - Cameroon",
-          "gpa": "3.977 GPA",
+          "gpa": "2.59 GPA",
           "degree":"Masters of Engineering in Agro-Industrial Engineering",
           "graduated":"December 2011",
           "description":"Coursework Included: Front-End Web Development (HTML, CSS, JavaScript), Back-End Web Development (Perl, Python, PHP), C-Programming, Database Management Systems (SQL, ERDplus, Teradata), Adobe Creative Suite, Microsoft Office Applications, Business Minor (Management, Finance, Accounting, Marketing, Economics)"
@@ -58,7 +58,7 @@
         {
           "company":"Africa Business and Consulting",
           "title":"Quality Assurance Engineer",
-          "years":"December 2019 - May 2020 (Laid-off as a result of Covid-19)",
+          "years":"December 2018 - Feb 2020",
           "description":"Invoicing clients, building and sending receipts, scheduling/mailing payment plans and reminders, marketing tasks (mass mailings, mass text messaging, design/editing), and researching high school sports statistics, data, and school information."
         }
       ],
@@ -146,7 +146,7 @@
           "title":"Weather App",
           "shorttitle": "Weather App",
           "category":"Academic Project",
-          "image":"userDirectoryImg1.PNG",
+          "image":"weather.jpg",
           "info":"React, Nodejs, Axios, Random User API, HTML, CSS, JS, Bootstrap",
           "url":"https://tutchings.github.io/19-user-directory/",
           "repo":"https://github.com/tutchings/19-user-directory"
@@ -155,7 +155,7 @@
           "title":"Progressive Budget PWA",
           "shorttitle": "Progressive Budget",
           "category":"Academic Project",
-          "image":"budgetTracker1.PNG",
+          "image":"budget.jpg",
           "info":"MongoDB, Mongoose, webpack, service-worker, Express, Nodejs",
           "url":"https://budget-tracker-18-pwa.herokuapp.com",
           "repo":"https://github.com/tutchings/18_BudgetTrackerPWA"
@@ -164,7 +164,7 @@
           "title":"Note Taker",
           "shorttitle": "Note Taker",
           "category":"Academic Project",
-          "image":"burgerTracker.PNG",
+          "image":"notetaker.jpg",
           "info":"MySql, Express, Nodejs, Handlebars, HTML, CSS, JS, Bootstrap, jQuery",
           "url":"https://mysql-mvc-burger-shop.herokuapp.com/",
           "repo":"https://github.com/tutchings/13_burgerTracker"
