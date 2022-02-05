@@ -16,7 +16,8 @@
     color: #fff;
     margin-bottom: 12px;
     display: block;
-    text-align: center;
+    /* text-align: center; */
+    margin-inline-start: 400px;
  }
  #about p {
     line-height: 30px;
@@ -27,6 +28,7 @@
     margin-inline-start: 400px;
     margin-inline-end: 100px;
     box-sizing: border-box;
+    text-align: justify;
  }
  #about .profile-pic {
     float: left;
@@ -35,7 +37,18 @@
     height: 120px;
     border-radius: 100%;
  }
- #about .contact-details { width: 41.66667%; }
+ /* #about .contact-details { width: 41.66667%; } */
+
+ #about .address {
+   line-height: 30px;
+   color: #ccc;
+   display: inline-block;
+   margin-block-start: 0.83em;
+   margin-block-end: 2em;
+   margin-inline-start: 400px;
+   margin-inline-end: 100px;
+   box-sizing: border-box;
+ }
  #about .download {
     width: 58.33333%;
     padding-top: 6px;

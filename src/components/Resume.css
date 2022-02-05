@@ -19,10 +19,26 @@
  #resume h1 span {
     border-bottom: 3px solid #0762f9;
     padding-bottom: 6px;
+    
  }
  #resume h3 {
-    font: 25px/30px 'opensans-bold', sans-serif;
- }
+    font: 22px/30px 'opensans-bold', sans-serif;
+    color: rgb(25, 22, 22);
+    margin-bottom: 12px;
+    display: block;
+    text-align: center;
+}
+
+#resume p {
+   line-height: 30px;
+   color: black;
+   display: flex;
+   margin-block-start: 0.83em;
+   margin-block-end: 2em;
+   margin-inline-start: 400px;
+   margin-inline-end: 100px;
+   box-sizing: border-box;
+}
  
  #resume .header-col { padding-top: 9px; }
  #resume .main-col { padding-right: 10%; }
@@ -41,10 +57,17 @@
  #resume .info span {
     margin-right: 5px;
     margin-left: 5px;
+    margin-top: 22px;
  }
  #resume .date {
     font: 15px/24px 'opensans-regular', sans-serif;
-    margin-top: 6px;
+    margin-top: 22px;
+    display: inline-block;
+    color: black;
+    margin-inline-start: 10px;
+    
+    
+
  }
  
  /*----------------------------------------------*/

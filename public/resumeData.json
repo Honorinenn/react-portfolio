@@ -8,7 +8,7 @@
       "email": "honorinendzah@gmail.com",
       "phone": "425-220-8089",
       "github":"https://github.com/Honorinenn",
-      "project":"",
+      "project":"https://www.linkedin.com/in/honorine-ndom-ndzah-79347787/",
       "address":{
         "street":"(Your Street)",
         "city":"Seattle",
@@ -16,7 +16,7 @@
         "zip": "(Your Zip/Postal Code)"
       },
       "website": "https://github.com/Honorinenn",
-      "resumedownload":"https://drive.google.com/file/d/1z-EfydB5ZVRvnLHXoPAg1dbRDvHO-gSV/view?usp=sharing",
+      "resumedownload":"https://drive.google.com/file/d/1WSQOZmcAtBb6osZAe09yPLDZpqmAgNz8/view",
       "social":[
         {
           "name":"github",
@@ -37,15 +37,15 @@
           "school":"University of Washington - Seattle",
           "gpa": "A+ Academic Average",
           "degree":"Coding Certificate",
-          "graduated":"February 2022",
-          "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, Git"
+          "graduated":"February 2022", 
+          "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Node.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, GraphQL, Git"
         },
         {
           "school":"University of Ngaoundere - Cameroon",
           "gpa": "2.59 GPA",
           "degree":"Masters of Engineering in Agro-Industrial Engineering",
           "graduated":"December 2011",
-          "description":"Coursework Included: Front-End Web Development (HTML, CSS, JavaScript), Back-End Web Development (Perl, Python, PHP), C-Programming, Database Management Systems (SQL, ERDplus, Teradata), Adobe Creative Suite, Microsoft Office Applications, Business Minor (Management, Finance, Accounting, Marketing, Economics)"
+          "description":" computer science and programming, Numerical methods, Matrices, Theorethical and Applied Statistics, Engineering Design Project, Conception and development of new products, Analytical Mechanics and Strength of Materials, Applied Physical Chemistry, Mechanical manufacturing, Instrumental and Analytical Chemistry, Industrial Chemistry and and Processing Materials"
         }
       ],
       "work":[
@@ -148,8 +148,8 @@
           "category":"Academic Project",
           "image":"weather.jpg",
           "info":"React, Nodejs, Axios, Random User API, HTML, CSS, JS, Bootstrap",
-          "url":"https://tutchings.github.io/19-user-directory/",
-          "repo":"https://github.com/tutchings/19-user-directory"
+          "url":" https://honorinenn.github.io/Weather-Dash-Board/",
+          "repo":"https://github.com/Honorinenn/Weather-Dash-Board"
         },
         {
           "title":"Progressive Budget PWA",
@@ -157,8 +157,8 @@
           "category":"Academic Project",
           "image":"budget.jpg",
           "info":"MongoDB, Mongoose, webpack, service-worker, Express, Nodejs",
-          "url":"https://budget-tracker-18-pwa.herokuapp.com",
-          "repo":"https://github.com/tutchings/18_BudgetTrackerPWA"
+          "url":" ",
+          "repo":" "
         },
         {
           "title":"Note Taker",
@@ -166,8 +166,8 @@
           "category":"Academic Project",
           "image":"notetaker.jpg",
           "info":"MySql, Express, Nodejs, Handlebars, HTML, CSS, JS, Bootstrap, jQuery",
-          "url":"https://mysql-mvc-burger-shop.herokuapp.com/",
-          "repo":"https://github.com/tutchings/13_burgerTracker"
+          "url":"https://note1t.herokuapp.com/",
+          "repo":"https://github.com/Honorinenn/note-taker"
         }
       ]
     }
