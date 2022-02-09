@@ -150,13 +150,13 @@
           "repo":"https://github.com/Honorinenn/Weather-Dash-Board"
         },
         {
-          "title":"Progressive Budget PWA",
-          "shorttitle": "Progressive Budget",
+          "title":"Google Book Search Engine",
+          "shorttitle": "Book Search Engine",
           "category":"Academic Project",
-          "image":"budget.png",
+          "image":"booksearch.png",
           "info":"MongoDB, Mongoose, webpack, service-worker, Express, Nodejs",
-          "url":" ",
-          "repo":" "
+          "url":"https://book-search-engine-hn.herokuapp.com/ ",
+          "repo":"https://github.com/Honorinenn/book-search-engine "
         },
         {
           "title":"Note Taker",
