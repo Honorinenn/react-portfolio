@@ -35,14 +35,12 @@
       "education":[
         {
           "school":"University of Washington - Seattle",
-          "gpa": "A+ Academic Average",
           "degree":"Coding Certificate",
           "graduated":"February 2022", 
           "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Node.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, GraphQL, Git"
         },
         {
           "school":"University of Ngaoundere - Cameroon",
-          "gpa": "2.59 GPA",
           "degree":"Masters of Engineering in Agro-Industrial Engineering",
           "graduated":"December 2011",
           "description":" computer science and programming, Numerical methods, Matrices, Theorethical and Applied Statistics, Engineering Design Project, Conception and development of new products, Analytical Mechanics and Strength of Materials, Applied Physical Chemistry, Mechanical manufacturing, Instrumental and Analytical Chemistry, Industrial Chemistry and and Processing Materials"
@@ -128,7 +126,7 @@
           "title":"Workout Tracker",
           "shorttitle": "Workout Tracker",
           "category":"Academic (personal) Project",
-          "image":"Workout.jpg",
+          "image":"Workout.png",
           "info":"Express, Nodejs, MongoDB, Mongoose, HTML, CSS, JS",
           "url":"https://workout-tracker-hn.herokuapp.com/",
           "repo":"https://github.com/Honorinenn/workout-tracker"
@@ -146,7 +144,7 @@
           "title":"Weather App",
           "shorttitle": "Weather App",
           "category":"Academic Project",
-          "image":"weather.jpg",
+          "image":"weather.png",
           "info":"React, Nodejs, Axios, Random User API, HTML, CSS, JS, Bootstrap",
           "url":" https://honorinenn.github.io/Weather-Dash-Board/",
           "repo":"https://github.com/Honorinenn/Weather-Dash-Board"
@@ -155,7 +153,7 @@
           "title":"Progressive Budget PWA",
           "shorttitle": "Progressive Budget",
           "category":"Academic Project",
-          "image":"budget.jpg",
+          "image":"budget.png",
           "info":"MongoDB, Mongoose, webpack, service-worker, Express, Nodejs",
           "url":" ",
           "repo":" "
@@ -164,7 +162,7 @@
           "title":"Note Taker",
           "shorttitle": "Note Taker",
           "category":"Academic Project",
-          "image":"notetaker.jpg",
+          "image":"notetaker.png",
           "info":"MySql, Express, Nodejs, Handlebars, HTML, CSS, JS, Bootstrap, jQuery",
           "url":"https://note1t.herokuapp.com/",
           "repo":"https://github.com/Honorinenn/note-taker"

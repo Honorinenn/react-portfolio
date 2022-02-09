@@ -26,13 +26,14 @@
     color: rgb(25, 22, 22);
     margin-bottom: 12px;
     display: block;
-    text-align: center;
+    /* text-align: center; */
+    margin-inline-start: 400px;
 }
 
 #resume p {
    line-height: 30px;
    color: black;
-   display: flex;
+   /* display: flex; */
    margin-block-start: 0.83em;
    margin-block-end: 2em;
    margin-inline-start: 400px;
@@ -53,21 +54,18 @@
     color: #6E7881;
     margin-bottom: 18px;
     margin-top: 9px;
+    margin-inline-start: 400px;
  }
  #resume .info span {
     margin-right: 5px;
     margin-left: 5px;
     margin-top: 22px;
  }
- #resume .date {
+ #resume em.date {
     font: 15px/24px 'opensans-regular', sans-serif;
     margin-top: 22px;
     display: inline-block;
     color: black;
-    margin-inline-start: 10px;
-    
-    
-
  }
  
  /*----------------------------------------------*/

@@ -33,8 +33,8 @@
  #about .profile-pic {
     float: left;
     /*position: relative;*/
-    width: 120px;
-    height: 120px;
+    width: 150px;
+    height: 250px;
     border-radius: 100%;
  }
  /* #about .contact-details { width: 41.66667%; } */
