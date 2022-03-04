@@ -98,12 +98,12 @@
           
         },
         {
-          "name":"Amazon Web Services / Serverless",
-          "level":"25%"
+          "name":"Amazon Web Services / Serverless"
+          
         },
         {
-          "name":"Python",
-          "level":"35%"          
+          "name":"Python"
+                   
         },
         {
           "name":"Java",
