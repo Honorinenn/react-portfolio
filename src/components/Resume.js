@@ -32,7 +32,7 @@ class Resume extends Component {
         var className = skills.name.toLowerCase();
         return (
           <li key={skills.name}>
-            <span style={{width:skills.level, backgroundColor:this.getRandomColor()}}className={className}></span><em>{skills.name}</em>
+            <em>{skills.name}</em>
           </li>
         )
       })
