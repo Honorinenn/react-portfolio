@@ -74,12 +74,12 @@
           
         },
         {
-          "name":"Terminal / Git",
-          "level":"90%"
+          "name":"Terminal / Git"
+    
         },
         {
-          "name":"NodeJS / ExpressJS",
-          "level":"95%"
+          "name":"NodeJS / ExpressJS"
+
         },
         {
           "name":"MySQL / Sequelize",
