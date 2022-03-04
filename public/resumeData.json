@@ -94,20 +94,16 @@
         
         },
         {
-          "name":"C# Programming"
-          
+          "name":"C# Programming" 
         },
         {
           "name":"Amazon Web Services / Serverless"
-          
         },
         {
-          "name":"Python"
-                   
+          "name":"Python"     
         },
         {
-          "name":"Java"
-          
+          "name":"Java"     
         }
       ]
     },
