@@ -82,12 +82,12 @@
 
         },
         {
-          "name":"MySQL / Sequelize",
-          "level":"75%"
+          "name":"MySQL / Sequelize"
+          
         },
         {
-          "name":"JavaScript / jQuery",
-          "level":"93%"
+          "name":"JavaScript / jQuery"
+          
         },
         {
           "name":"REST APIs",
