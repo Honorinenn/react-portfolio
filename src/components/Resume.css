@@ -83,11 +83,9 @@
     list-style: none;
  }
  .bars li {
-    position: relative;
+    
        margin-bottom: 60px;
-       background: #333;
-       height: 42px;
-       border-radius: 0px;
+       
  }
  .bars li em {
      font: 15px 'opensans-bold', sans-serif;
