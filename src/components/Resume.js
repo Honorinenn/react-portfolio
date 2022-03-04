@@ -63,7 +63,7 @@ class Resume extends Component {
 
 
       
-
+{/* 
          <div className="three columns header-col">
             <h1><span>Skills</span></h1>
          </div>
@@ -76,7 +76,7 @@ class Resume extends Component {
 					  {skills}
 				  	</ul>
 				
-			    </div>
+			    </div> */}
     
    </section>
     );
