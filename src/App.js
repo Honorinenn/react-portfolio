@@ -44,14 +44,18 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
-        <Header data={this.state.resumeData.main}/>
-        <About data={this.state.resumeData.main}/>
-        <Resume data={this.state.resumeData.resume}/>
-        <Portfolio data={this.state.resumeData.portfolio}/>
-        <Contact data={this.state.resumeData.main} repos={this.state.resumeData.portfolio}/>
-        <Footer data={this.state.resumeData.main}/>
-      </div>
+      <Router>
+       <div className="App">
+         <Header data={this.state.resumeData.main}/>
+         <div className="container">
+         <About data={this.state.resumeData.main}/>
+         <Resume data={this.state.resumeData.resume}/>
+         <Portfolio data={this.state.resumeData.portfolio}/>
+         <Contact data={this.state.resumeData.main} repos={this.state.resumeData.portfolio}/>
+         <Footer data={this.state.resumeData.main}/>
+       </div>
+       </div>
+      </Router>
     );
   }
 }
