@@ -23,11 +23,6 @@ class Resume extends Component {
 
       var skills = this.props.data.skills.map((skills)=>{
         
-        return (
-          <li key={skills.name}>
-            <em>{skills.name}</em>
-          </li>
-        )
       })
     }
 
