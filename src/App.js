@@ -49,9 +49,6 @@ class App extends Component {
        <div className="App">
          <Header data={this.state.resumeData.main}/>
          <div className="container">
-           <Route exact path="/">
-             <Home/>
-           </Route>
            <Route exact path="/About">
              <About data={this.state.resumeData.main}/>
             </Route>
