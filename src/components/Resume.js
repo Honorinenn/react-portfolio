@@ -1,9 +1,15 @@
 import React, { Component } from 'react';
-import './Resume.css'
 
 class Resume extends Component {
 
-
+  getRandomColor() {
+    var letters = '0123456789ABCDEF';
+    var color = '#';
+    for (var i = 0; i < 6; i++) {
+      color += letters[Math.floor(Math.random() * 16)];
+    }
+    return color;
+  }
   
   render() {
 
@@ -22,7 +28,12 @@ class Resume extends Component {
       })
 
       var skills = this.props.data.skills.map((skills)=>{
-        
+        var className = 'bar-expand '+skills.name.toLowerCase();
+        return (
+          <li key={skills.name}>
+            <span style={{width:skills.level, backgroundColor:this.getRandomColor()}}className={className}></span><em>{skills.name}</em>
+          </li>
+        )
       })
     }
 
@@ -57,22 +68,24 @@ class Resume extends Component {
 
 
 
-      
-{/* 
+      <div className="row skill">
+
          <div className="three columns header-col">
             <h1><span>Skills</span></h1>
          </div>
 
          <div className="nine columns main-col">
+
             <p>{skillmessage}
             </p>
 
+				<div className="bars">
 				   <ul className="skills">
 					  {skills}
-				  	</ul>
-				
-			    </div> */}
-    
+					</ul>
+				</div>
+			</div>
+      </div>
    </section>
     );
   }
