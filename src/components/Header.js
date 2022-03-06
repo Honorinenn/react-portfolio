@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 import ParticlesBg  from "particles-bg";
 import "./Header.css"
 
@@ -35,6 +36,7 @@ class Header extends Component {
       <div className="row banner">
       
          <div className="banner-text">
+            <Link className="text-light" to="/">
             <h1 className="responsive-headline">{name}</h1>
             <h3>{description}.</h3>
             <hr />
@@ -42,6 +44,7 @@ class Header extends Component {
                <a href={project} target="_blank" className="button btn github-btn"><i className="fa fa-linkedin"></i>LinkedIn</a>
                <a href={github} target="_blank" className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
             </ul>
+            </Link>
          </div>
       </div>
 
