@@ -3,6 +3,7 @@ import ReactGA from 'react-ga';
 import $ from 'jquery';
 import './App.css';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
+import Layout from './components/Layout.js'
 import Header from './components/Header.js';
 import Footer from './components/Footer.js';
 import About from './components/About.js';
@@ -45,7 +46,7 @@ class App extends Component {
 
   render() {
     return (
-      <Router>
+      <BrowserRouter>
        <div className="App">
          <Header data={this.state.resumeData.main}/>
          <div className="container">
@@ -64,7 +65,7 @@ class App extends Component {
             <Footer data={this.state.resumeData.main}/>
          </div>
        </div>
-      </Router>
+      </BrowserRouter>
     );
   }
 }
