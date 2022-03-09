@@ -44,9 +44,7 @@ class App extends Component {
   }
 
   render() {
-    return (
-      <BrowserRouter>
-        <Routes>      
+    return (      
        <div className="App">
          <Header data={this.state.resumeData.main}/>
          <div className="container">
@@ -59,17 +57,14 @@ class App extends Component {
             <Route exact path="/Resume">
               <Resume data={this.state.resumeData.resume}/>
             </Route>
-            <Route exact path="/Portfolio">  
+            
               <Portfolio data={this.state.resumeData.portfolio}/>
-            </Route>
-            <Route exact path="/Contact">
+            
              <Contact data={this.state.resumeData.main} repos={this.state.resumeData.portfolio}/>
-            </Route> 
             <Footer data={this.state.resumeData.main}/>
          </div>
        </div>
-       </Routes>
-      </BrowserRouter>
+       
     );
   }
 }
