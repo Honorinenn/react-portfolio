@@ -113,7 +113,7 @@
           "title":"Impress ME",
           "shorttitle": "Impress ME",
           "category":"Academic Project",
-          "image":"pinko.png",
+          "image":"impressme.png",
           "info":"HTML, CSS, JS, Bootstrap, handlebar.js, Node.js, Sequelize, Mysql, Express",
           "url":"https://mysterious-gorge-30415.herokuapp.com/",
           "repo":"https://github.com/cj8355/PinKO"
