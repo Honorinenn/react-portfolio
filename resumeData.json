@@ -1,0 +1,169 @@
+{
+    "main": {
+      "name":"Honorine Ndom Ndzah",
+      "description":"Software Engineer",
+      "image":"profilepic.jpg",
+      "bio":"My name is Honorine Ndom Ndzah and I am a Software Engineer based in Seattle, WA, I am a hard-working, detail-oriented Software Engineer passionate about learning, researching, and writing code and I relish the opportunity to take my programming skills and experience to a company where I can continue to learn and grow as a professional software developer.",
+      "contactmessage":"Feel free to contact me via email, this form, or LinkedIn",
+      "email": "honorinendzah@gmail.com",
+      "phone": "425-220-8089",
+      "github":"https://github.com/Honorinenn",
+      "project":"https://www.linkedin.com/in/honorine-ndom-ndzah-79347787/",
+      "address":{
+        "street":"(Your Street)",
+        "city":"Seattle",
+        "state":"WA",
+        "zip": "(Your Zip/Postal Code)"
+      },
+      "website": "https://github.com/Honorinenn",
+      "resumedownload":"https://drive.google.com/file/d/1WSQOZmcAtBb6osZAe09yPLDZpqmAgNz8/view",
+      "social":[
+        {
+          "name":"github",
+          "url":"https://github.com/Honorinenn",
+          "className":"fa fa-github"
+        },
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/honorine-ndom-ndzah-79347787/",
+          "className":"fa fa-linkedin"
+        }
+      ]
+    },
+    "resume":{
+      "skillmessage":"* Each skill level is weighted in correlation to the remaining skills",
+      "education":[
+        {
+          "school":"University of Washington - Seattle",
+          "degree":"Coding Certificate",
+          "graduated":"February 2022", 
+          "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Node.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, GraphQL, Git"
+        },
+        {
+          "school":"University of Ngaoundere - Cameroon",
+          "degree":"Masters of Engineering in Agro-Industrial Engineering",
+          "graduated":"December 2011",
+          "description":" computer science and programming, Numerical methods, Matrices, Theorethical and Applied Statistics, Engineering Design Project, Conception and development of new products, Analytical Mechanics and Strength of Materials, Applied Physical Chemistry, Mechanical manufacturing, Instrumental and Analytical Chemistry, Industrial Chemistry and and Processing Materials"
+        }
+      ],
+      "work":[
+        {
+          "company":"Walmart",
+          "title":"Sales Associate",
+          "years":"January 2021 - Present",
+          "description":"Control of nonconforming material using the Claim App, consequently reducing the number of  defective products on the sales floor. Provide customer service to customers in the store and through phone calls to improve their shopping experience. "
+        },
+        {
+          "company":"Africa Business and Consulting",
+          "title":"Quality Assurance Engineer",
+          "years":"December 2018 - Feb 2020",
+          "description":"Set up a new maintenance inspection practice that consequently improved product quality and  reduced costs by 20% by producing lesser defective products. "
+        }
+      ],
+      "skills":[
+        {
+          "name":"HTML / CSS / Bootstrap"
+          
+        },
+        {
+          "name":"ReactJS"
+      
+        },
+        {
+          "name":"MongoDB / Mongoose"
+          
+        },
+        {
+          "name":"Terminal / Git"
+    
+        },
+        {
+          "name":"NodeJS / ExpressJS"
+
+        },
+        {
+          "name":"MySQL / Sequelize"
+          
+        },
+        {
+          "name":"JavaScript / jQuery"
+          
+        },
+        {
+          "name":"REST APIs"
+        
+        },
+        {
+          "name":"C# Programming" 
+        },
+        {
+          "name":"Amazon Web Services / Serverless"
+        },
+        {
+          "name":"Python"     
+        },
+        {
+          "name":"Java"     
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"Pinko",
+          "shorttitle": "Pinko",
+          "category":"Academic Project",
+          "image":"pinko.png",
+          "info":"HTML, CSS, JS, Bootstrap, handlebar.js, Node.js, Sequelize, Mysql, Express",
+          "url":"https://mysterious-gorge-30415.herokuapp.com/",
+          "repo":"https://github.com/cj8355/PinKO"
+        },
+        {
+          "title":"Workout Tracker",
+          "shorttitle": "Workout Tracker",
+          "category":"Academic (personal) Project",
+          "image":"Workout.png",
+          "info":"Express, Nodejs, MongoDB, Mongoose, HTML, CSS, JS",
+          "url":"https://workout-tracker-hn.herokuapp.com/",
+          "repo":"https://github.com/Honorinenn/workout-tracker"
+        },
+        {
+          "title":"Music Trivia",
+          "shorttitle": "Music Trivia",
+          "category":"Academic (group) Project",
+          "image":"musictrivia.png",
+          "info":"HTML, CSS, JS, jQuery, Materialize, GoogleMaps and Geocoding APIs, NPS API, Covid Tracking Project API, Bing News API, MapQuest API",
+          "url":"https://BCole37.github.io/Project-1-Music-Trivia/",
+          "repo":"https://github.com/BCole37/Project-1-Music-Trivia" 
+        },
+        {
+          "title":"Weather App",
+          "shorttitle": "Weather App",
+          "category":"Academic Project",
+          "image":"weather.png",
+          "info":"React, Nodejs, Axios, Random User API, HTML, CSS, JS, Bootstrap",
+          "url":" https://honorinenn.github.io/Weather-Dash-Board/",
+          "repo":"https://github.com/Honorinenn/Weather-Dash-Board"
+        },
+        {
+          "title":"Google Book Search Engine",
+          "shorttitle": "Book Search Engine",
+          "category":"Academic Project",
+          "image":"booksearch.png",
+          "info":"MongoDB, Mongoose, webpack, service-worker, Express, Nodejs",
+          "url":"https://book-search-engine-hn.herokuapp.com/ ",
+          "repo":"https://github.com/Honorinenn/book-search-engine "
+        },
+        {
+          "title":"Note Taker",
+          "shorttitle": "Note Taker",
+          "category":"Academic Project",
+          "image":"notetaker.png",
+          "info":"MySql, Express, Nodejs, Handlebars, HTML, CSS, JS, Bootstrap, jQuery",
+          "url":"https://note1t.herokuapp.com/",
+          "repo":"https://github.com/Honorinenn/note-taker"
+        }
+      ]
+    }
+  }
+  
