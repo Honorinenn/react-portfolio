@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import ReactGA from 'react-ga';
 import $ from 'jquery';
 import './App.css';
-import { BrowserRouter as Routes, Route } from 'react-router-dom';
 import Header from './components/Header.js';
 import Footer from './components/Footer.js';
 import About from './components/About.js';
@@ -47,24 +46,12 @@ class App extends Component {
     return (      
        <div className="App">
          <Header data={this.state.resumeData.main}/>
-         <div className="container">
-           <Route path="/">
-           <Header data={this.state.resumeData.main}/>
-           </Route>
-           <Route exact path="/About">
-             <About data={this.state.resumeData.main}/>
-            </Route>
-            <Route exact path="/Resume">
-              <Resume data={this.state.resumeData.resume}/>
-            </Route>
-            
-              <Portfolio data={this.state.resumeData.portfolio}/>
-            
-             <Contact data={this.state.resumeData.main} repos={this.state.resumeData.portfolio}/>
-            <Footer data={this.state.resumeData.main}/>
-         </div>
+          <About data={this.state.resumeData.main}/>
+          <Resume data={this.state.resumeData.resume}/>
+          <Portfolio data={this.state.resumeData.portfolio}/>
+          <Contact data={this.state.resumeData.main} repos={this.state.resumeData.portfolio}/>
+          <Footer data={this.state.resumeData.main}/>
        </div>
-       
     );
   }
 }
