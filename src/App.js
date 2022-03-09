@@ -3,7 +3,6 @@ import ReactGA from 'react-ga';
 import $ from 'jquery';
 import './App.css';
 import { BrowserRouter as Routes, Route } from 'react-router-dom';
-import Layout from './components/Layout.js'
 import Header from './components/Header.js';
 import Footer from './components/Footer.js';
 import About from './components/About.js';
@@ -52,7 +51,7 @@ class App extends Component {
          <Header data={this.state.resumeData.main}/>
          <div className="container">
            <Route path="/">
-             <Layout/>
+           <Header data={this.state.resumeData.main}/>
            </Route>
            <Route exact path="/About">
              <About data={this.state.resumeData.main}/>
