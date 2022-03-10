@@ -114,7 +114,7 @@
           "shorttitle": "Impress ME",
           "category":"Academic Project",
           "image":"impressme.png",
-          "info":"HTML, CSS, JS, Bootstrap, handlebar.js, Node.js, Sequelize, Mysql, Express",
+          "info":"React, Semantic UI, GraphQL,Node.js, MongoDB/Mongoose, JWT Authentication, AWS S3, Express",
           "url":"https://impress-me-app.herokuapp.com/",
           "repo":"https://github.com/KS1/insta"
         },
